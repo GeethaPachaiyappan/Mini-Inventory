@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // Inventory Mini Project - testing commit
         char check;
         int n = 0;
         int id = 0;
